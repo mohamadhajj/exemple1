@@ -1,0 +1,19 @@
+<Alloy>
+	<Window class="container">
+		<ImageView class="image" backgroundImage="images/iTunesConnect.png" />
+		
+		<View class="view1"> 
+		<Label id="username">username :</Label>
+		<TextField id="textbox1"> </TextField>
+		  </View>
+		  
+		  <View class="view2"> 
+		<Label id="password">password: </Label>
+		<TextField id="textbox2"> </TextField>
+		</View>
+		  
+		<Button id="login" title="Login" onClick="loginclick">LogIn</Button>
+		
+		
+	</Window>
+</Alloy>
