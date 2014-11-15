@@ -7,7 +7,7 @@ function loginclick(e){
 	if($.textbox1.value!=""&& $.textbox2.value!="") {
 		
 		
-  alert("ok ok ok ok ok");
+  alert("ok ok ok ok ok ok");
 	}
 	
 	
